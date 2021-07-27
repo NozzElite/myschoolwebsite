@@ -1,0 +1,57 @@
+body {
+    background-color: cornflowerblue;
+    color: whitesmoke
+}
+
+#marqueeStyle {
+    background-color: greenyellow;
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    font-weight: bold;
+    font-family: serif;
+    font-size: 18px;
+}
+
+#Contact {
+    text-align: center;
+}
+
+#vision {
+    color: whitesmoke;
+    font-size: 14.5px;
+    text-align: left;
+    line-height: 30px;
+}
+
+hr {
+    color: wheat;
+}
+
+i {
+    color: snow;
+}
+
+#logo {
+    margin-top: -10px;
+}
+
+#container {
+    background-image: linear-gradient(180deg, paleturquoise, palegreen);
+    border-radius: 45px;
+    width: 1000px;
+    height: 420px;
+    font-family: bold;
+    font-family: serif;
+    text-align: center;
+    font-size: 14.5px;
+}
+
+#image {
+    margin-top: 30px;
+    width: 280px;
+    height: 200px;
+}
+h1{
+    font-size: 25px
+}
